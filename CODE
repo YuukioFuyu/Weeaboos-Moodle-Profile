@@ -1,0 +1,323 @@
+<!--
+Thank you for using my Script
+If you need some help you can Contact me anytime
+on this email, yuukio.fuyu@linuxmail.org
+Warm Regards Yuukio (=´∇｀=)
+
+
+NOTE :
+[This script is recommended for users with screen sizes of 1024x768 up to 1366x768]
+-->
+
+
+<!--Main Background-->
+<div style="background-color:#2c2f33;">
+
+    <!--Header-->
+    <div style="background-color:#23272a;">
+        <div style="padding-bottom:30px;">
+            <div style="width:100%;height:40px;border-bottom:20px solid #7289da;text-align:center;">
+                <!--Welcome Line Title-->
+                <span style="font-size:40px;border:5px solid #7289da;background-color:#F3F5F6;padding:0 10px;">
+                    W E L C O M E
+                </span>
+            </div>
+        </div>
+
+        <div>
+            <!--Basic Image Background, (This Background being used if the Video Background Blocked by Adbock)-->
+            <div style="background-image:url(https://i.ibb.co/6Fs3mrc/repeat-bg.png);background-position:center;height:100%;">
+                <!--Video Background-->
+                <div align="center">
+                    <video title="アスノヨゾラ哨戒班 by 燦鳥ノム【歌ってみた】" autoplay="" loop="" width="1800"><source src="https://cdn.discordapp.com/attachments/688776871332020315/806926817885814784/Asu_no_Yozora_Shoukaihan.mp4" type="video/mp4" />アスノヨゾラ哨戒班 by 燦鳥ノム【歌ってみた】</video>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End of Header-->
+
+    <!--Mid Line-->
+    <hr style="height:20px;border-width:0;color:#7289da;background-color:#7289da;" />
+    <!--End of Mid Line-->
+
+    <!--Body-->
+    <!--Anime Pict Top Right-->
+    <div style="background-image:url(https://i.ibb.co/6sXJrqD/Untitled-2.png);background-repeat:no-repeat;background-position:right top;">
+        <!--Anime Pict Top Left-->
+        <div style="background-image:url(https://i.ibb.co/ftYvmwn/Untitled-1.png);background-repeat:no-repeat;">
+            <!--Anime Pict Bottom Left-->
+            <div style="background-image:url(https://i.ibb.co/LgHVLVW/Ch-cho-img-02.png);background-repeat:no-repeat;background-position:left bottom;">
+                <!--Anime Pict Bottom Right-->
+                <div style="background-image:url(https://i.ibb.co/1J2B8tx/Ch-van-img-02.png);background-repeat:no-repeat;background-position:right bottom;">
+                    
+                    <!--Text on Top Body-->
+                    <h1 style="color:#ffffff;" align="center"><b>What are You Looking at?</b></h1>
+                    
+                    <!--Anime Gif Pict on Top Body-->
+                    <div align="center">
+                        <img src="https://media.tenor.com/images/9e38efb026f755e38c69cd6f9ba514d8/tenor.gif" title="loading" />
+                    </div>
+
+                    <!--Personal Information Table-->
+                    <div align="center">
+                        <!--Email Table-->
+                        <h3 style="padding-top:15%;color:#ffffff;"><strong>Email me!</strong></h3><br />
+                        <table style="background-color:#23272a;">
+                            <tbody>
+                                <tr align="center">
+                                    <!--Email 1-->
+                                    <td style="padding:30px;">
+                                        <!--Image Link-->
+                                        <div>
+                                            <a href="mailto:kyooka@mywaifu.me" target="_blank" rel="noreferrer noopener"><img src="https://zohowebstatic.com/sites/default/files/ogimage/mail-logo.png" title="Zohomail" width="80" height="80" /></a>
+                                        </div>
+                                        <!--Text Link-->
+                                        <div>
+                                            <a style="color:#7289da;" href="mailto:kyooka@mywaifu.me" target="_blank" rel="noreferrer noopener"><strong>Personal Email</strong></a>
+                                        </div>
+                                    </td>
+                                    <!--Email 2-->
+                                      <td style="padding:30px;">
+                                        <!--Image Link-->
+                                        <div>
+                                            <a href="mailto:yuukio.fuyu@linuxmail.org" target="_blank" rel="noreferrer noopener"><img src="https://www.linux.org/apple-touch-icon.png" title="Linuxmail" width="80" height="80" /></a>
+                                        </div>
+                                        <!--Text Link-->
+                                        <div>
+                                            <a style="color:#7289da;" href="mailto:yuukio.fuyu@linuxmail.org" target="_blank" rel="noreferrer noopener"><strong>Community Email</strong></a>
+                                        </div>
+                                    </td>
+                                    <!--Email 3-->
+                                    <td style="padding:30px;">
+                                        <!--Image Link-->
+                                        <div>
+                                            <a href="mailto:yuukio.fuyu@protonmail.com" target="_blank" rel="noreferrer noopener"><img src="https://mail.protonmail.com/assets/favicons/favicon-194x194.png" title="Protonmail" width="80" height="80" /></a>
+                                        </div>
+                                        <!--Text Link-->
+                                        <div>
+                                            <a style="color:#7289da;" href="mailto:yuukio.fuyu@protonmail.com" target="_blank" rel="noreferrer noopener"><strong>Encrypted Email</strong></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!--End of Email Table-->
+
+                        <!--Account Table-->
+                        <h3 style="padding-top:50px;color:#ffffff;"><strong>Wanna See All of My Account?</strong></h3><br />
+                        <table style="background-color:#23272a;">
+                            <tbody>
+                                <tr>
+                                    <!--Left Table-->
+                                    <td style="padding:30px;">
+                                        <table>
+                                            <tbody>
+                                                <!--Account 1-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td>
+                                                        <a href="https://steamcommunity.com/id/yuukio-fuyu" target="_blank" rel="noreferrer noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" title="Steam" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://steamcommunity.com/id/yuukio-fuyu" target="_blank" rel="noreferrer noopener">ᚠᛈᚫᚱᚾᛒᛄᛗᚾᛞ</a>
+                                                    </td>
+                                                </tr>
+                                                <!--Account 2-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td>
+                                                        <a href="https://www.reddit.com/user/Mike_Roberson" target="_blank" rel="noreferrer noopener"><img src="https://www.redditstatic.com/desktop2x/img/favicon/favicon-96x96.png" title="Reddit" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://www.reddit.com/user/Mike_Roberson" target="_blank" rel="noreferrer noopener">Mike Roberson</a>
+                                                    </td>
+                                                </tr>
+                                                <!--Account 3-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td>
+                                                        <a href="https://raidforums.com/User-yuuki0" target="_blank" rel="noreferrer noopener"><img src="https://cdn.raidforums.com/s/favicon.ico" title="Raid Forums" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://raidforums.com/User-yuuki0" target="_blank" rel="noreferrer noopener">yuuki0</a>
+                                                    </td>
+                                                </tr>
+                                                <!--Account 4-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td>
+                                                        <a href="https://github.com/YuukioFuyu" target="_blank" rel="noreferrer noopener"><img src="https://github.com/fluidicon.png" title="Github" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://github.com/YuukioFuyu" target="_blank" rel="noreferrer noopener">Yuukio Fuyu</a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                    <!--End of Left Table-->
+
+                                    <!--Right Table-->
+                                    <td style="padding:30px;">
+                                        <table>
+                                            <tbody>
+                                                <!--Account 5-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td>
+                                                        <a href="https://sukebei.nyaa.net/user/37480/Yuuki0" target="_blank" rel="noreferrer noopener"><img src="https://sukebei.nyaa.net/img/favicon.png" title="Sukebei" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://sukebei.nyaa.net/user/37480/Yuuki0" target="_blank" rel="noreferrer noopener">Yuuki0</a>
+                                                    </td>
+                                                </tr>
+                                                <!--Account 6-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td>
+                                                        <a href="https://www.pixiv.net/en/users/37557614" target="_blank" rel="noreferrer noopener"><img src="https://policies.pixiv.net/favicon.a8396493.ico" title="Pixiv" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://www.pixiv.net/en/users/37557614" target="_blank" rel="noreferrer noopener">Mike Roberson</a>
+                                                    </td>
+                                                </tr>
+                                                <!--Account 7-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td>
+                                                        <a href="https://fantia.jp/profiles/tus_359lcz3odbogn" target="_blank" rel="noreferrer noopener"><img src="https://fantia.jp/assets/customers/apple-touch-icon-7c45e89fc530b2b3c1bd0f4497693fa2c174f0650cd9082824b4dd7e47bfefef.png" title="Fantia" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://fantia.jp/profiles/tus_359lcz3odbogn" target="_blank" rel="noreferrer noopener">Yuukio Fuyu</a>
+                                                    </td>
+                                                </tr>
+                                                <!--Account 8-->
+                                                <tr>
+                                                    <!--Image Link-->
+                                                    <td><a href="https://nhentai.net/users/2455391/yuukio-fuyu" target="_blank" rel="noreferrer noopener"><img src="https://i.postimg.cc/bS2G17bP/Untitled-1.png" title="nHentai" width="30" height="30" /></a>
+                                                    </td>
+                                                    <!--Text Link-->
+                                                    <td>
+                                                        <a style="color:#7289da;padding-left:10px;" href="https://nhentai.net/users/2455391/yuukio-fuyu" target="_blank" rel="noreferrer noopener">Yuukio Fuyu</a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                    <!--End of Right Table-->
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!--End of Account Table-->
+
+                        <!--Personal Website Table-->
+                        <h3 style="padding-top:50px;color:#ffffff;"><strong>Don't Forget to Visit my Website</strong></h3><br />
+                        <table style="background-color:#23272a;">
+                            <tbody>
+                                <tr align="center">
+                                    <!--Primary Website-->
+                                    <td style="padding:50px;">
+                                        <!--Website Logo-->
+                                        <div>
+                                            <a href="http://mywaifu.me/" target="_blank" rel="noreferrer noopener"><img src="https://i.ibb.co/yQGy4T8/logo.png" title="mywaifu" width="80" height="80" /></a>
+                                        </div>
+                                        <!--Website Title-->
+                                        <div>
+                                            <a style="color:#7289da;" href="http://mywaifu.me/" target="_blank" rel="noreferrer noopener"><strong>MyWaifu</strong></a>
+                                        </div>
+                                    </td>
+                                    <!--Secondary Website-->
+                                    <td style="padding:50px;">
+                                        <!--Website Logo-->
+                                        <div>
+                                            <a href="http://loliworld.me/" target="_blank" rel="noreferrer noopener"><img src="https://i.ibb.co/MM8Bpf0/icon.png" title="loliworld" width="80" height="80" /></a>
+                                        </div>
+                                        <!--Website Title-->
+                                        <div>
+                                            <a style="color:#7289da;" href="http://loliworld.me/" target="_blank" rel="noreferrer noopener"><strong>Loli World</strong></a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!--End of Personal Website Table-->
+                    </div>
+                    <!--End of Personal Information Table-->
+
+                    <!--Anime Gif Pict on Bottom Body-->
+                    <div align="center">
+                        <img src="https://i.ibb.co/f13Jkgw/sleep.gif" title="sleep" width="200" />
+                    </div>
+                    <br />
+
+                    <!--Educational Quotes-->
+                    <!--Text Quotes-->
+                    <div style="margin:auto;width:72%;color:#ffff80;background-color:#ffff80;">
+                        <h1 style="color:#FF4040;" align="center">
+                            <span><span><i><u><b>
+              			        I WILL TRY TO PASS WITH CUMLAUDE...!!!
+            				</b></u></i></span></span>
+                        </h1>
+                    </div>
+                    <!--Video/Gif-->
+                    <div align="center">
+                        <video autoplay="" loop=""><source src="https://media.tenor.com/videos/f4a9e7abbbbf25dcc19bb9593e94f4d4/mp4" type="video/mp4" />
+  							Your browser does not support the video tag.
+                        </video>
+                    </div>
+                    <!--End of Educational Quotes-->
+
+                    <!--Bottom Line-->
+                    <hr style="height:20px;border-width:0;color:#808080;background-color:#808080;" />
+                    <!--End of Bottom Line-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End of Body-->
+
+    <!--Script Information Table, (You can Change the Copyright table with your Name or the Version whatever you want)-->
+    <table width="100%">
+        <tbody>
+            <tr>
+                <!--Copyright Table-->
+                <td>
+                    <p style="color:#ffffff;padding-left:20px;padding-bottom:0px;"><strong>Copyright© 2020 - All Rights Reserved</strong> <br /> <i style="color:#ffd700;">Created by <a href="https://wa.me/message/OXMTT7UZ4H27H1" target="_blank" rel="noreferrer noopener"><strong style="color:#fe251b;">Yuuki0</strong></a></i></p>
+                </td>
+                <!--Version Table-->
+                <td>
+                    <p style="color:#ffffff;padding-right:20px;padding-bottom:0px;" align="right"><u>Version 3.12.1311</u></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <!--End of Script Information Table-->
+
+</div>
+<!--End of Main Background-->
+
+<!--Additional Information-->
+<div style="padding-top:50px;">
+    <table width="100%">
+        <tbody>
+            <tr>
+                <!--Anime Gif Pitc-->
+                <td>
+                    <img src="https://media.tenor.com/images/8d615e9bb795fb20e13741d7ac79ff16/tenor.gif" title="tenor" align="left" />
+                </td>
+                <!--Text-->
+                <td>
+                    <h1><strong>Ahh... You're still here.<br />What else do you want to look for?</strong></h1>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<!--ANd of Additional Information-->
